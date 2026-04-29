@@ -160,9 +160,9 @@ export function computeThemeVariables(settings: HomepageThemeSettings): ThemeCSS
 
 export function getDefaultThemeSettings(): HomepageThemeSettings {
     return {
-        accent: '#8b5cf6',
+        accent: '#00ff41',
         background: '#f5f3ff',
-        mode: 'light',
+        mode: 'dark',
         background_type: 'COLOR',
         font_family: DEFAULT_HOMEPAGE_FONT,
     };
